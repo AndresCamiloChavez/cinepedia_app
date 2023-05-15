@@ -1,5 +1,5 @@
 import 'package:cinepedia_app/infraestructure/datasources/moviedb_datasource.dart';
-import 'package:cinepedia_app/infraestructure/respositories/movie_repository_impl.dart';
+import 'package:cinepedia_app/infraestructure/repositories/movie_repository_impl.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 
